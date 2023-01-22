@@ -1,16 +1,9 @@
 # outcaster_five
 
-A new Flutter project.
+Stepper
 
-## Getting Started
+## ScreenShot
 
-This project is a starting point for a Flutter application.
+<img src = "https://user-images.githubusercontent.com/122794880/213918333-c2a03513-4186-4108-b11c-eac0c57a476c.jpeg" height="500px"/>
+<img src = "https://user-images.githubusercontent.com/122794880/213918329-312fb59d-42ab-496c-a450-92e7b3b9cf8c.jpeg" height="500px"/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
